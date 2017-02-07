@@ -6,4 +6,4 @@ A chatbot script that reads all emails and parses them based on urgent/prioritie
 
 # How it works
 
-[!example.gif](images\example.gif)
+[!example.gif](.images/example.gif)
