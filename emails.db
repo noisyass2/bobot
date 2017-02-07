@@ -1,0 +1,38 @@
+[
+{
+"Subject":"Sample Email Subject",
+"Body":"Sample Email Body",
+"EmailType":"Normal",
+"IsUrgent":false,
+"DateReceived":"2017-02-07T12:50:06.561",
+"From":"Your Boss"
+},
+{
+"Subject":"Urgent NEED YOUR HALP!",
+"Body":"J K",
+"EmailType":"Urgent",
+"IsUrgent":true,
+"DateReceived":"2017-02-07T12:30:06.561",
+"From":"Your Boss"
+},
+{
+"Subject":"Sample Email Subject",
+"Body":"Sample Email Body",
+"EmailType":"Normal",
+"IsUrgent":false,
+"DateReceived":"2017-02-07T09:50:06.561",
+"From":"Your Boss"
+},
+{
+"StartDate":"2017-02-06T14:00:00",
+"EndDate":"2017-02-06T15:00:00",
+"Location":"Meeting Room",
+"Attendees":null,
+"Subject":"Sample Meeting Subjcet",
+"Body":"Sample Meeting Body",
+"EmailType":"Meeting",
+"IsUrgent":false,
+"DateReceived":"2017-02-06T10:15:52.2",
+"From":"Your Client"
+}
+]
